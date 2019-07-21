@@ -1,1 +1,1 @@
-# AI-in-Trading-Nanodegree
+# Udactiy AI in Trading Nanodegree
